@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 je m'appelle Sina farhadi 🇫🇷
+im 17 years old guy from Iran 🇮🇷.
+I'm experiened python developer with some good JS skills.
+Recently i started to learn machine learning with python.
 
 <!--
 **E-RROR/E-RROR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
