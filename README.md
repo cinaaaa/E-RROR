@@ -18,7 +18,7 @@ Recently i started to learn machine learning with python.
 [![pub package](https://img.shields.io/badge/me-Twitter-blue?color=blue&style=flat-square)](https://twitter.com/_sinafarhadi)
 
 # Languages i know 😄
-<div align="center">
+<div align="center" style="display: flex">
     <div style="display:inline-block;">
             <img src="https://image.flaticon.com/icons/svg/1387/1387537.svg" width="150" style="display: inline" />
     </div>
