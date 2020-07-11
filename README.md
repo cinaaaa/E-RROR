@@ -18,14 +18,14 @@ Recently i started to learn machine learning with python.
 [![pub package](https://img.shields.io/badge/me-Twitter-blue?color=blue&style=flat-square)](https://twitter.com/_sinafarhadi)
 
 # Languages i know 😄
-<div align="center" style="display: flex">
-    <div style="display:inline-block;">
+<div align="center">
+    <span>
             <img src="https://image.flaticon.com/icons/svg/1387/1387537.svg" width="150" style="display: inline" />
-    </div>
-    <div style="display:inline-block;">
+    </span>
+    <span>
             <img src="https://image.flaticon.com/icons/svg/919/919828.svg" width="150" style="display: inline" />
-    </div>
-    <div style="display:inline-block;">
+    </span>
+    <span>
             <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="150" style="display: inline" />
-    </div>
+    </span>
 </div>
