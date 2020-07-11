@@ -9,19 +9,19 @@ Recently i started to learn machine learning with python.
 
 ### How reach me 
 <span>
-[![pub package](https://img.shields.io/badge/me-Linkedin-blue?color=blue&style=flat-square)](https://www.linkedin.com/in/sina-farhadi-profile/)
+<img src="https://img.shields.io/badge/me-Linkedin-blue?color=blue&style=flat-square)](https://www.linkedin.com/in/sina-farhadi-profile/" />
 </span>
 
 <span>
-[![pub package](https://img.shields.io/badge/me-Instagram-fb3958?color=fb3958&style=flat-square)](https://www.instagram.com/_sinafarhadi/)
+<img src="https://img.shields.io/badge/me-Instagram-fb3958?color=fb3958&style=flat-square)](https://www.instagram.com/_sinafarhadi/" />
 </span>
 
 <span>
-[![pub package](https://img.shields.io/badge/me-Youtube-red?color=red&style=flat-square)](https://www.youtube.com/channel/UC1DQwagZKa15Ko0lypVXaiQ)
+<img src="https://img.shields.io/badge/me-Youtube-red?color=red&style=flat-square)](https://www.youtube.com/channel/UC1DQwagZKa15Ko0lypVXaiQ" />
 </span>
 
 <span>
-[![pub package](https://img.shields.io/badge/me-Twitter-blue?color=blue&style=flat-square)](https://twitter.com/_sinafarhadi)
+<img src="https://img.shields.io/badge/me-Twitter-blue?color=blue&style=flat-square)](https://twitter.com/_sinafarhadi/" />
 </span>
 
 # Languages i know 😄
