@@ -20,12 +20,12 @@ Recently i started to learn machine learning with python.
 # Languages i know 😄
 <div align="center" style="display:inline-block;">
     <div>
-            <img src="https://image.flaticon.com/icons/svg/1387/1387537.svg" width="150" style="display: inline" />
+            <img src="https://image.flaticon.com/icons/svg/1387/1387537.svg" width="250" style="display: inline" />
     </div>
     <div>
-            <img src="https://image.flaticon.com/icons/svg/919/919828.svg" width="150" style="display: inline" />
+            <img src="https://image.flaticon.com/icons/svg/919/919828.svg" width="250" style="display: inline" />
     </div>
     <div>
-            <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="150" style="display: inline" />
+            <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="250" style="display: inline" />
     </div>
 </div>
