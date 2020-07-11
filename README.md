@@ -28,4 +28,10 @@ Recently i started to learn machine learning with python.
     <span>
             <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="150" style="display: inline" />
     </span>
+    <span>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="150" style="display: inline" />
+    </span>
+    <span>
+            <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width="150" style="display: inline" />
+    </span>
 </div>
