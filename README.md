@@ -1,41 +1,39 @@
-# Hi there 👋 je m'appelle Sina farhadi 🇫🇷
+### Hi there 👋 je m'appelle Sina farhadi 🇫🇷
 im 17 years old guy from Iran 🇮🇷.
 I'm experiened python developer with some good JS skills.
 Recently i started to learn machine learning with python.
 
-#### 🔭 I’m currently working on [conolist](https://github.com/E-RROR/conolist) to make devops and server man works easier, you can help me with this :)
-#### 🌱 I’m currently learning machine learning with french 🇫🇷
-#### 👯 I’m looking to collaborate on any clean project
+- 🔭 I’m currently working on [conolist](https://github.com/E-RROR/conolist) to make devops and server man works easier, you can help me with this :)
+- 🌱 I’m currently learning machine learning with french 🇫🇷
+- 👯 I’m looking to collaborate on any clean project
 
-### How reach me 
-<span>
-<img src="https://img.shields.io/badge/me-Linkedin-blue?color=blue&style=flat-square)](https://www.linkedin.com/in/sina-farhadi-profile/" />
-</span>
+<a href="https://twitter.com/_sinafarhadi" target="blank">
+  <img align="left" alt="Sina Farhadi | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+</a>
+<a href="http://instagram.com/_sinafarhadi" target="blank">
+  <img align="left" alt="Sina Farhadi | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+</a>
 
-<span>
-<img src="https://img.shields.io/badge/me-Instagram-fb3958?color=fb3958&style=flat-square)](https://www.instagram.com/_sinafarhadi/" />
-</span>
 
-<span>
-<img src="https://img.shields.io/badge/me-Youtube-red?color=red&style=flat-square)](https://www.youtube.com/channel/UC1DQwagZKa15Ko0lypVXaiQ" />
-</span>
+**Languages:**
 
-<span>
-<img src="https://img.shields.io/badge/me-Twitter-blue?color=blue&style=flat-square)](https://twitter.com/_sinafarhadi/" />
-</span>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/nestjs.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/gatsby.svg"></code>
 
-# Languages i know 😄
-<div align="center">
-    <span>
-            <img src="https://image.flaticon.com/icons/svg/1387/1387537.svg" width="150" style="display: inline" />
-    </span>
-    <span>
-            <img src="https://image.flaticon.com/icons/svg/919/919828.svg" width="150" style="display: inline" />
-    </span>
-    <span>
-            <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="150" style="display: inline" />
-    </span>
-    <span>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="150" style="display: inline" />
-    </span>
-</div>
+<a href="https://github.com/E-RROR" target="blank">
+<img src="https://github-readme-stats.vercel.app/api?username=E-RROR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Sina Farhadi - github stats"/>
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/E-RROR/conolist" target="blank">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=E-RROR&repo=conolist&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
