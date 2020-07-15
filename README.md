@@ -1,4 +1,12 @@
 ### Hi there 👋 je m'appelle Sina farhadi 🇫🇷
+<br />
+<a href="https://twitter.com/_sinafarhadi" target="blank">
+  <img align="left" alt="Sina Farhadi | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+</a>
+<a href="http://instagram.com/_sinafarhadi" target="blank">
+  <img align="left" alt="Sina Farhadi | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+</a>
+<br />
 im 17 years old guy from Iran 🇮🇷.
 I'm experiened python developer with some good JS skills.
 Recently i started to learn machine learning with python.
@@ -7,12 +15,7 @@ Recently i started to learn machine learning with python.
 - 🌱 I’m currently learning machine learning with french 🇫🇷
 - 👯 I’m looking to collaborate on any clean project
 
-<a href="https://twitter.com/_sinafarhadi" target="blank">
-  <img align="left" alt="Sina Farhadi | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
-</a>
-<a href="http://instagram.com/_sinafarhadi" target="blank">
-  <img align="left" alt="Sina Farhadi | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
-</a>
+<br />
 
 
 **Languages:**
