@@ -28,5 +28,5 @@ Hi, I'm Sina Farhadi, a passionate self-taught software developer developer from
 
 
 <a href="https://github.com/E-RROR" target="blank">
-<img src="https://github-readme-stats.vercel.app/api?username=imanghafoori1&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f2f2f2" alt="Sina Farhadi - github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=navidshad72&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f2f2f2" alt="Sina Farhadi - github stats"/>
 </a>
