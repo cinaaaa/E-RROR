@@ -26,5 +26,5 @@ Hi, I'm Sina Farhadi, a passionate self-taught software developer developer from
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 <a href="https://github.com/E-RROR" target="blank">
-<img src="https://github-readme-stats.vercel.app/api?username=E-RROR&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=c1c1c1" alt="Sina Farhadi - github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=E-RROR&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f2f2f2" alt="Sina Farhadi - github stats"/>
 </a>
