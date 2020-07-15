@@ -16,26 +16,14 @@ Hi, I'm Sina Farhadi, a passionate self-taught software developer developer from
 - 👯 I’m looking to collaborate on any clean project
 
 <br />
-
 **Languages:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nestjs.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/gatsby.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <a href="https://github.com/E-RROR" target="blank">
 <img src="https://github-readme-stats.vercel.app/api?username=E-RROR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Sina Farhadi - github stats"/>
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/E-RROR/conolist" target="blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=E-RROR&repo=conolist&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
