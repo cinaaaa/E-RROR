@@ -7,8 +7,9 @@
   <img align="left" alt="Sina Farhadi | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
 <br />
+<br />
 Hi, I'm Sina Farhadi, a passionate self-taught software developer developer from Iran 🇮🇷.
-
+<br />
 - 🔭 I’m currently working on [conolist](https://github.com/E-RROR/conolist) to make devops and server man works easier, you can help me with this :)
 - 🌱 I’m currently learning machine learning with french 🇫🇷
 - 👯 I’m looking to collaborate on any clean project
