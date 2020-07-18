@@ -8,7 +8,7 @@
 </a>
 <br />
 <br />
-Hi, I'm Sina Farhadi, a passionate self-taught software developer developer from Iran 🇮🇷.
+Hi, I'm Sina Farhadi, a passionate self-taught software developer from Iran 🇮🇷.
 <br />
 
 - 🔭 I’m currently working on [conolist](https://github.com/E-RROR/conolist) to make devops and server man works easier, you can help me with this :)
