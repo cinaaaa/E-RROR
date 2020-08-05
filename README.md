@@ -1,4 +1,4 @@
-## Hi there 👋 je m'appelle Sina farhadi 🇫🇷
+## Hi there 👋
 
 <a href="https://twitter.com/_sinafarhadi" target="blank">
   <img align="left" alt="Sina Farhadi | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
