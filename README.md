@@ -6,6 +6,9 @@
 <a href="http://instagram.com/_sinafarhadi" target="blank">
   <img align="left" alt="Sina Farhadi | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=E-RROR)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 Hi, I'm Sina Farhadi, a passionate self-taught software developer from Iran 🇮🇷.
