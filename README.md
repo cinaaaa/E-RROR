@@ -1,14 +1,6 @@
 ## Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=E-RROR)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
-Hi, I'm Sina Farhadi, a passionate self-taught software developer from Iran 🇮🇷.
-<br />
-
-- 🔭 I’m currently working on [conolist](https://github.com/E-RROR/conolist) to make devops and server man works easier, you can help me with this :)
-- 🌱 I’m currently learning machine learning with french 🇫🇷
-- 👯 I’m looking to collaborate on any clean project
 
 <br />
 
