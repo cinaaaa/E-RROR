@@ -1,4 +1,4 @@
-![](https://github.com/E-RROR/E-RROR/blob/master/I'm%20Sina%20Farhadi.gif)
+![](https://github.com/E-RROR/E-RROR/blob/master/sina.gif)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=E-RROR)](https://github.com/anuraghazra/github-readme-stats)
 <br />
