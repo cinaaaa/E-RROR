@@ -70,4 +70,3 @@
 ```
 Turning challenges into opportunities
 ```
-![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
