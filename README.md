@@ -48,25 +48,6 @@
    <img src="https://img.shields.io/badge/Travis CI%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
 </p> 
 
-
-<hr>
-
-### About 📌
-
-### ✔  **Domain :** Challenger Software developer 💻
-### ✔  **Skills :** Python, Js, ReactJs, Django, FastApi, MongoDB, Mysql, Solidity, Python, TDD
-### ✔  **Learning :** ML and Blockchain
-### ✔  **Hobbies :**  Read 📕, Music 🎧
-
-<hr>
-
-### S.O 💻
-
-### ✔  Elementary OS, Ubuntu, Linux Mint, Pop!_OS, Linux Lite
-### ✔  Windows
-
-<hr>
-
 ```
 Turning challenges into opportunities
 ```
