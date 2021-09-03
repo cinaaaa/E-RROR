@@ -1,5 +1,4 @@
 <h1>Hello, I'm Sina 🙋‍♂️</h1>
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFi5lbwcRByyQ/profile-displaybackgroundimage-shrink_350_1400/0/1629536437278?e=1634774400&v=beta&t=TmNLsU9cF-yyHERrYIDvvi9cTzkPp3CSpwR6OjISRhE" />
 <h3>How to reach me:</h3>
 <a href="https://www.linkedin.com/in/sina-farhadi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/cinaaaaaaaaa_"><img src="https://img.shields.io/badge/instagram-%fff.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
