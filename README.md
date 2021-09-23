@@ -46,5 +46,3 @@
    <img src="https://img.shields.io/badge/Docker compose%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Travis CI%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
 </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-RROR&layout=compact&theme=algolia" alt="ostadeton" /> </p>
