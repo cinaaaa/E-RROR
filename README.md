@@ -9,8 +9,10 @@
    <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Redux-Saga%20-%23F7DF2R.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/React Native%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Django%20-%23F7DF1E.svg?&style=for-the-badge&color=009933" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Next.js%20-%42F7UF1E.svg?&style=for-the-badge&color=008343" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Electron%20-%23F7DF1E.svg?&style=for-the-badge&color=5E8E98" />&nbsp;&nbsp;
