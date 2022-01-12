@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGBgy9e75ijSw/profile-displaybackgroundimage-shrink_200_800/0/1638173768630?e=1643846400&v=beta&t=7FSoX8SkvHn0d3rrkX4KP_9gpwKYd-fyFjR9NNo-Kd8" width="100%" />
+
 <h3>How to reach me:</h3>
 <a href="https://www.linkedin.com/in/sina-farhadi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
